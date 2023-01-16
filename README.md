@@ -1,5 +1,11 @@
 # Speech-Emotion-Recognition
 
+Dataset link
+
+
+
+https://www.kaggle.com/code/myr9988/speech-emotion-recognition
+
 
 
 
